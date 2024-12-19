@@ -1,3 +1,12 @@
+### [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+- **Description:** Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
+
+### [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
+- **Description:** 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
+
+### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- **Description:** A list of Free Software network services and web applications which can be hosted on your own servers
+
 ### [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars)
 - **Description:** Github Starred Repositories Manager
 
