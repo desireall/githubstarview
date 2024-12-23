@@ -5,7 +5,7 @@
 ## Project Description
 
 GithubStartog uses the Github API to get the starred projects of a user, generate a Markdown file and a frontend page based on the tags of the projects.
-[DEMO](https://githubstartog.pages.dev/)
+[DEMO](https://githubstarview.pages.dev/)
 
 ## How to use
 
