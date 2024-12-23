@@ -7,7 +7,7 @@
 ## 项目描述
 
 GithubStartog 通过 Github API 获取用户的标星项目，根据项目的标签，并生成一个 Markdown 文件和前端页面。
-[DEMO](https://githubstartog.pages.dev/)
+[DEMO](https://githubstarview.pages.dev/)
 
 ## 如何使用
 
