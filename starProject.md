@@ -1,3 +1,6 @@
+### [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+- **Description:** DigitalPlat FreeDomain: Free Domain For Everyone
+
 ### [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
 - **Description:** Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 
@@ -629,7 +632,7 @@
 - **Description:** Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 ### [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App)
-- **Description:** Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify (iTunes, Apple Music, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3). 一款为 Spotify 提供滚动歌词的软件。(iTunes、Apple Music、Music Center、QQ音乐、网易云音乐、YesPlayMusic 仅 Lyricify 3 支持)
+- **Description:** Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 
 ### [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen)
 - **Description:** Infinite Photorealistic Worlds using Procedural Generation
@@ -866,7 +869,7 @@
 - **Description:** 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 ### [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-- **Description:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+- **Description:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 
 ### [phyver/GameShell](https://github.com/phyver/GameShell)
 - **Description:** a game to learn (or teach) how to use standard commands in a Unix shell
@@ -1051,7 +1054,7 @@
 - **Description:** Cross-platform chatbot framework made with love
 
 ### [dubinc/dub](https://github.com/dubinc/dub)
-- **Description:** Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- **Description:** Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 
 ### [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
