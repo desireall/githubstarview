@@ -1,3 +1,53 @@
+### [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save)
+- **Description:** 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
+
+### [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)
+- **Description:** AigcPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
+
+### [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt)
+- **Description:** Easily share permanent links to ChatGPT conversations with your friends
+
+### [fanenr/flutter-chatbot](https://github.com/fanenr/flutter-chatbot)
+
+### [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)
+- **Description:** 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+
+### [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)
+- **Description:** AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
+- **Description:** OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+
+### [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web)
+- **Description:** 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+
+### [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)
+- **Description:** A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).
+
+### [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3)
+- **Description:** 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
+
+### [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+- **Description:** 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+### [yudaocode/yudao-boot-mini](https://github.com/yudaocode/yudao-boot-mini)
+- **Description:** 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+### [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny)
+- **Description:** A fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker
+
+### [moruoyiming/wealth](https://github.com/moruoyiming/wealth)
+- **Description:** 网络资源分享（破解软件，注册码，壁纸 ，翻墙软件，免费vpn）
+
+### [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher)
+- **Description:** English pronunciation correction teacher built with gemini
+
+### [LetTTGACO/elog](https://github.com/LetTTGACO/elog)
+- **Description:** Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+
+### [qingwen07/awesome-iptv](https://github.com/qingwen07/awesome-iptv)
+- **Description:** 精选全球IPTV源，定期更新维护，全部都是720P和1080P的高清资源
+
 ### [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 - **Description:** DigitalPlat FreeDomain: Free Domain For Everyone
 
@@ -108,7 +158,7 @@
 ### [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
 - **Description:** Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 
-### [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx)
+### [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx)
 - **Description:** Nintendo Switch emulator written in C#, originally created by gdkchan.
 
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
@@ -146,7 +196,7 @@
 ### [llr104/slgserver](https://github.com/llr104/slgserver)
 - **Description:** 一个用go语言实现的三国slg游戏服务器demo
 
-### [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io)
+### [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io)
 - **Description:** 📚 LookScanned.io - Make your PDFs look scanned
 
 ### [itwanger/paicoding-admin](https://github.com/itwanger/paicoding-admin)
@@ -317,9 +367,6 @@
 ### [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools)
 - **Description:** 收录独立开发者出海技术栈和工具
 
-### [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web)
-- **Description:** 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
-
 ### [joye61/pic-smaller](https://github.com/joye61/pic-smaller)
 - **Description:** Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 
@@ -442,9 +489,6 @@
 
 ### [heygsc/word-wind](https://github.com/heygsc/word-wind)
 - **Description:** 单词之风，像风一样丝滑的背单词
-
-### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
-- **Description:** OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 
 ### [x6ud/pose-search](https://github.com/x6ud/pose-search)
 - **Description:** x6ud.github.io/pose-search
@@ -617,7 +661,7 @@
 - **Description:** Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools
 
 ### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 
 ### [shalvah/DownloadThisVideo](https://github.com/shalvah/DownloadThisVideo)
 - **Description:** Twitter bot for easily downloading videos/GIFs off tweets
@@ -1721,9 +1765,6 @@
 ### [fingerchar/fingernft](https://github.com/fingerchar/fingernft)
 - **Description:** FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
 
-### [spipm/Depix](https://github.com/spipm/Depix)
-- **Description:** Recovers passwords from pixelized screenshots
-
 ### [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb)
 - **Description:** :kangaroo: - PouchDB is a pocket-sized database.
 
@@ -1949,7 +1990,7 @@
 - **Description:** MySQL/MariaDB database management for macOS
 
 ### [2dust/v2rayN](https://github.com/2dust/v2rayN)
-- **Description:** A GUI client for Windows and Linux, support Xray core and sing-box-core and others
+- **Description:** A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
 
 ### [kingston-csj/mmorpg](https://github.com/kingston-csj/mmorpg)
 - **Description:** springboot编写的高性能分布式mmorpg手游服务端框架，包含中心服，网关服，游戏服，战斗服等。
