@@ -1,3 +1,6 @@
+### [Pawdroid/shadowrocket_for_android](https://github.com/Pawdroid/shadowrocket_for_android)
+- **Description:** A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
+
 ### [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save)
 - **Description:** 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
 
@@ -34,7 +37,7 @@
 - **Description:** 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 ### [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny)
-- **Description:** A fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker
+- **Description:** a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker
 
 ### [moruoyiming/wealth](https://github.com/moruoyiming/wealth)
 - **Description:** 网络资源分享（破解软件，注册码，壁纸 ，翻墙软件，免费vpn）
@@ -345,7 +348,7 @@
 - **Description:** :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 
 ### [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT better.
+- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ### [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - **Description:** ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -1760,7 +1763,7 @@
 - **Description:** DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 
 ### [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)
-- **Description:** A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+- **Description:** A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
 ### [fingerchar/fingernft](https://github.com/fingerchar/fingernft)
 - **Description:** FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
