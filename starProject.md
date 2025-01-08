@@ -1,3 +1,24 @@
+### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
+- **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+
+### [YOYZHANG/open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly)
+- **Description:** 优质AI开源项目周刊, 每周一更新
+
+### [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude)
+- **Description:** Let your Claude able to think
+
+### [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works)
+- **Description:** A Third-party GPTs store
+
+### [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)
+- **Description:** ai cover generator
+
+### [usual2970/certimate](https://github.com/usual2970/certimate)
+- **Description:** 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+
+### [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
+- **Description:** 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
+
 ### [Pawdroid/shadowrocket_for_android](https://github.com/Pawdroid/shadowrocket_for_android)
 - **Description:** A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
 
@@ -1104,7 +1125,7 @@
 - **Description:** Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 
 ### [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-- **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ### [iamrToday/pkg-remove](https://github.com/iamrToday/pkg-remove)
 - **Description:** for Mac pkg remove shell script
