@@ -403,7 +403,7 @@
 - **Description:** DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- **Description:** Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ### [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 - **Description:** 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
@@ -684,8 +684,8 @@
 ### [jzyong/game-server](https://github.com/jzyong/game-server)
 - **Description:** Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools
 
-### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+- **Description:** ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [shalvah/DownloadThisVideo](https://github.com/shalvah/DownloadThisVideo)
 - **Description:** Twitter bot for easily downloading videos/GIFs off tweets
