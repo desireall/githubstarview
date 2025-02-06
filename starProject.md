@@ -1,3 +1,21 @@
+### [rany2/warp.sh](https://github.com/rany2/warp.sh)
+- **Description:** WARP wireguard config generator in POSIX Shell
+
+### [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
+- **Description:** free online AI resume editor
+
+### [findmover/wxread](https://github.com/findmover/wxread)
+- **Description:** 微信读书刷时长助你成为霸榜“大佬” 
+
+### [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator)
+- **Description:** 基于IP的真实地址生成器
+
+### [idoubi/gonews](https://github.com/idoubi/gonews)
+- **Description:** golang每日新闻检索平台
+
+### [mintlify/starter](https://github.com/mintlify/starter)
+- **Description:** 📖 The starter kit for your Mintlify docs
+
 ### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
 - **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
 
@@ -40,7 +58,7 @@
 - **Description:** AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 ### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
-- **Description:** OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- **Description:** LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
 ### [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web)
 - **Description:** 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
@@ -305,7 +323,7 @@
 - **Description:** 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ### [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-- **Description:** The official gpt4free repository | various collection of powerful language models
+- **Description:** The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 
 ### [nageoffer/shortlink](https://github.com/nageoffer/shortlink)
 - **Description:** 🔥 热门推荐 🔥 SaaS 短链接系统，承载高并发和海量存储等场景难题。专为实习、校招以及社招而出的最新项目，项目质量不亚于 12306 铁路购票项目。
@@ -403,10 +421,10 @@
 - **Description:** DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
 ### [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
-- **Description:** 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
+- **Description:** 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 
 ### [assimon/dujiaoka](https://github.com/assimon/dujiaoka)
 - **Description:** 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
@@ -685,7 +703,7 @@
 - **Description:** Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools
 
 ### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-- **Description:** ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [shalvah/DownloadThisVideo](https://github.com/shalvah/DownloadThisVideo)
 - **Description:** Twitter bot for easily downloading videos/GIFs off tweets
@@ -721,7 +739,7 @@
 - **Description:** 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 
 ### [elunez/eladmin](https://github.com/elunez/eladmin)
-- **Description:** eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- **Description:** eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 ### [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go)
 - **Description:** 一个用来下载/分享网易云歌曲的Telegram Bot
@@ -751,7 +769,7 @@
 - **Description:** **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
 
 ### [makeplane/plane](https://github.com/makeplane/plane)
-- **Description:** 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- **Description:** 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
 ### [JDDKCN/KCN-GenshinServer](https://github.com/JDDKCN/KCN-GenshinServer)
 - **Description:** 基于GC制作的原神一键GUI多功能服务端。
@@ -906,7 +924,7 @@
 ### [ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 - **Description:** 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
 
-### [autodotua/MapBoard](https://github.com/autodotua/MapBoard)
+### [f-shake/MapBoard](https://github.com/f-shake/MapBoard)
 - **Description:** 地图画板，一款以ArcGIS Maps SDK为引擎、地图为底图、支持绘制点线面的矢量画板。支持各种格式的导入导出、基础地理分析等功能。支持Windows（完全支持）、Android（仅部分功能）。
 
 ### [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
@@ -1077,7 +1095,7 @@
 - **Description:** REST API for any Postgres database
 
 ### [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
-- **Description:** A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- **Description:** A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
 ### [dromara/Jpom](https://github.com/dromara/Jpom)
 - **Description:** 【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
@@ -1122,7 +1140,7 @@
 - **Description:** Cross-platform chatbot framework made with love
 
 ### [dubinc/dub](https://github.com/dubinc/dub)
-- **Description:** Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- **Description:** Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 
 ### [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1155,7 +1173,7 @@
 - **Description:** JeecgBoot低代码平台—Vue2版本【停止更新】，前后端分离架构SpringBoot 2，SpringCloud，Ant Design&Vue2，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式，引入AI模型能力 OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+- **Description:** 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性
 
 ### [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile)
 - **Description:** Flutter App for PhotoPrism
@@ -1914,7 +1932,7 @@
 - **Description:** Apache Lucene and Solr open-source search software
 
 ### [elastic/beats](https://github.com/elastic/beats)
-- **Description:** :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
+- **Description:** :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 
 ### [elastic/logstash](https://github.com/elastic/logstash)
 - **Description:** Logstash - transport and process your logs, events, or other data
@@ -2014,7 +2032,7 @@
 - **Description:** MySQL/MariaDB database management for macOS
 
 ### [2dust/v2rayN](https://github.com/2dust/v2rayN)
-- **Description:** A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
+- **Description:** A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ### [kingston-csj/mmorpg](https://github.com/kingston-csj/mmorpg)
 - **Description:** springboot编写的高性能分布式mmorpg手游服务端框架，包含中心服，网关服，游戏服，战斗服等。
@@ -2029,12 +2047,13 @@
 - **Description:** Redis Java client
 
 ### [redisson/redisson](https://github.com/redisson/redisson)
-- **Description:** Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+- **Description:** Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
 
 ### [LoveInShenZhen/sz-vertx-kotlin](https://github.com/LoveInShenZhen/sz-vertx-kotlin)
 - **Description:** vertx + kotlin + vertx-web
 
 ### [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+- **Description:** Command & Conquer: Remastered Collection
 
 ### [macrozheng/mall](https://github.com/macrozheng/mall)
 - **Description:** mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
