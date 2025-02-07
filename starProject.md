@@ -1,3 +1,15 @@
+### [iawia002/lux](https://github.com/iawia002/lux)
+- **Description:** 👾 Fast and simple video download library and CLI tool written in Go
+
+### [victorsouzaleal/twitter-direct-url](https://github.com/victorsouzaleal/twitter-direct-url)
+- **Description:** Get Twitter direct url from Tweet media link
+
+### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
+### [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- **Description:** Command-line program to download videos from YouTube.com and other video sites
+
 ### [rany2/warp.sh](https://github.com/rany2/warp.sh)
 - **Description:** WARP wireguard config generator in POSIX Shell
 
