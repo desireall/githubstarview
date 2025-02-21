@@ -1,3 +1,33 @@
+### [LucasJi/Jade](https://github.com/LucasJi/Jade)
+- **Description:** Obsidian vault publish solution
+
+### [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
+- **Description:** A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
+
+### [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui)
+- **Description:** (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+
+### [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+- **Description:** Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+
+### [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key)
+- **Description:** 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
+
+### [burakorkmez/stripe-subscriptions](https://github.com/burakorkmez/stripe-subscriptions)
+- **Description:** Learn Stripe Recurring Subscriptions
+
+### [plausible/analytics](https://github.com/plausible/analytics)
+- **Description:** Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+
+### [Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)
+- **Description:** Mock Interview Simulator with AI-Powered Feedback
+
+### [open-webui/open-webui](https://github.com/open-webui/open-webui)
+- **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+### [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)
+- **Description:** Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+
 ### [iawia002/lux](https://github.com/iawia002/lux)
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
 
@@ -335,7 +365,7 @@
 - **Description:** 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ### [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-- **Description:** The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- **Description:** The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 
 ### [nageoffer/shortlink](https://github.com/nageoffer/shortlink)
 - **Description:** 🔥 热门推荐 🔥 SaaS 短链接系统，承载高并发和海量存储等场景难题。专为实习、校招以及社招而出的最新项目，项目质量不亚于 12306 铁路购票项目。
@@ -411,7 +441,7 @@
 - **Description:** Chinese character stroke order animations and practice quizzes
 
 ### [frectonz/sql-studio](https://github.com/frectonz/sql-studio)
-- **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
+- **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
 
 ### [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg)
 - **Description:** warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
@@ -583,7 +613,7 @@
 - **Description:** golang binding for ffmpeg
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 ### [mylxsw/aidea](https://github.com/mylxsw/aidea)
 - **Description:** AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
@@ -1649,7 +1679,7 @@
 ### [lets-mica/mica](https://github.com/lets-mica/mica)
 - **Description:** Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个star 关注更新！
 
-### [dromara/hutool](https://github.com/dromara/hutool)
+### [chinabugotech/hutool](https://github.com/chinabugotech/hutool)
 - **Description:** 🍬A set of tools that keep Java sweet.
 
 ### [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)
@@ -2068,7 +2098,7 @@
 - **Description:** Command & Conquer: Remastered Collection
 
 ### [macrozheng/mall](https://github.com/macrozheng/mall)
-- **Description:** mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- **Description:** mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 
 ### [ThinkingDataAnalytics/java-sdk](https://github.com/ThinkingDataAnalytics/java-sdk)
 - **Description:** ThinkingData SDK for Java
