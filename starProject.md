@@ -1,3 +1,70 @@
+### [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
+- **Description:** A curated list of resources related to IPTV
+
+### [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)
+- **Description:** 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
+
+### [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
+- **Description:** Free Modern URL Shortener.
+
+### [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url)
+- **Description:** 网易云无损解析
+
+### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
+- **Description:** End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+
+### [zuoban/tts](https://github.com/zuoban/tts)
+- **Description:** tts 服务
+
+### [liseami/DeepRant](https://github.com/liseami/DeepRant)
+- **Description:** -游戏文字交流AI嘴强王者工具
+
+### [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends)
+- **Description:** Pseudo API for Google Trends 
+
+### [mirakyux/wechat_cp_chatgpt](https://github.com/mirakyux/wechat_cp_chatgpt)
+- **Description:** 企业微信-ChatGpt机器人
+
+### [ASML-Labs/PPTX.jl](https://github.com/ASML-Labs/PPTX.jl)
+- **Description:** Generate PowerPoint PPTX files from Julia
+
+### [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
+- **Description:** PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
+
+### [J3n5en/curs0r-release](https://github.com/J3n5en/curs0r-release)
+
+### [lmk123/migpt-cli](https://github.com/lmk123/migpt-cli)
+- **Description:** 安全、快速的给你的小爱音箱接入人工智能。
+
+### [idootop/mi-gpt](https://github.com/idootop/mi-gpt)
+- **Description:** 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+
+### [Kylsky/pandora-helper-with-linux-do-oauth](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth)
+- **Description:** 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
+
+### [u14app/deep-research](https://github.com/u14app/deep-research)
+- **Description:** Deep Research with Google Gemini Models
+
+### [Fickley/wxappUnpacker](https://github.com/Fickley/wxappUnpacker)
+
+### [VergilWu/wxappUnpacker](https://github.com/VergilWu/wxappUnpacker)
+- **Description:** 微信小程序反编译
+
+### [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+- **Description:** TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
+
+### [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
+- **Description:** 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+
+### [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
+- **Description:** 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+
+### [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)
+- **Description:** Redis GUI by Redis
+
+### [huggingface/agents-course](https://github.com/huggingface/agents-course)
+- **Description:** This repository contains the Hugging Face Agents Course. 
+
 ### [LucasJi/Jade](https://github.com/LucasJi/Jade)
 - **Description:** Obsidian vault publish solution
 
@@ -97,7 +164,7 @@
 - **Description:** 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 
 ### [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)
-- **Description:** AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- **Description:** AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 ### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
 - **Description:** LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
@@ -118,7 +185,7 @@
 - **Description:** 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 ### [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny)
-- **Description:** a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker
+- **Description:** a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
 
 ### [moruoyiming/wealth](https://github.com/moruoyiming/wealth)
 - **Description:** 网络资源分享（破解软件，注册码，壁纸 ，翻墙软件，免费vpn）
@@ -240,10 +307,7 @@
 - **Description:** ⭕ Share quick reference cheat sheet for developers.
 
 ### [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
-- **Description:** Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
-
-### [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx)
-- **Description:** Nintendo Switch emulator written in C#, originally created by gdkchan.
+- **Description:** Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
 - **Description:** :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
@@ -266,13 +330,13 @@
 - **Description:** FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
 ### [lmq2582609/minimalist-saas](https://github.com/lmq2582609/minimalist-saas)
-- **Description:** 极简多租户管理系统是一个基于数据库字段隔离的多租户管理系统，具备常规基础功能的单体应用。
+- **Description:** 极简多租户管理系统是一个多租户管理系统，多租户功能同时支持字段隔离和数据源隔离，项目基于SpringBoot3+Vue3的前后端分离的后台开发脚手架，具备一些常用的基础功能。
 
 ### [raidendotai/cofounder](https://github.com/raidendotai/cofounder)
 - **Description:** ai-generated apps , full stack + generative UI
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [DaWe35/Similarweb-free-API](https://github.com/DaWe35/Similarweb-free-API)
 - **Description:** A python example for the free Similarweb extension API, which is useable without API key
@@ -365,7 +429,7 @@
 - **Description:** 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ### [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-- **Description:** The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+- **Description:** The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 
 ### [nageoffer/shortlink](https://github.com/nageoffer/shortlink)
 - **Description:** 🔥 热门推荐 🔥 SaaS 短链接系统，承载高并发和海量存储等场景难题。专为实习、校招以及社招而出的最新项目，项目质量不亚于 12306 铁路购票项目。
@@ -441,7 +505,7 @@
 - **Description:** Chinese character stroke order animations and practice quizzes
 
 ### [frectonz/sql-studio](https://github.com/frectonz/sql-studio)
-- **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
+- **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 
 ### [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg)
 - **Description:** warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
@@ -463,7 +527,7 @@
 - **Description:** DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 ### [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 - **Description:** 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
@@ -471,11 +535,8 @@
 ### [assimon/dujiaoka](https://github.com/assimon/dujiaoka)
 - **Description:** 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
-### [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
-- **Description:** 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-
 ### [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
-- **Description:** Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on
+- **Description:** [AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
 
 ### [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
 - **Description:** LLM Frontend for Power Users.
@@ -613,7 +674,7 @@
 - **Description:** golang binding for ffmpeg
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 
 ### [mylxsw/aidea](https://github.com/mylxsw/aidea)
 - **Description:** AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
@@ -946,7 +1007,7 @@
 - **Description:** Tduck填鸭表单问卷系统（tduck-survey-form）开源问卷调查系统、表单系统。
 
 ### [TDuckCloud/tduck-platform](https://github.com/TDuckCloud/tduck-platform)
-- **Description:** 为企业提供「免费」表单问卷能力，「开箱即用」快速赋能业务  A questionnaire system that can be privatized and deployed - 填鸭表单问卷系统（tduck-survey-form）
+- **Description:** 为企业提供「免费」表单问卷能力，「开箱即用」快速赋能业务  A questionnaire system that can be privatized and deployed - 填鸭表单问卷系统（tduck-survey-form）表单系统-问卷系统
 
 ### [node-red/node-red](https://github.com/node-red/node-red)
 - **Description:** Low-code programming for event-driven applications
@@ -1119,7 +1180,7 @@
 - **Description:** 🌈 Fighting Design 可在 vue3 应用程序中快速构建交互界面，看起来还不错。(🌈 Fighting design can quickly build interactive interfaces in vue3 applications, which looks good.)
 
 ### [mpv-player/mpv](https://github.com/mpv-player/mpv)
-- **Description:** 🎥 Command line video player
+- **Description:** 🎥 Command line media player
 
 ### [vi/websocat](https://github.com/vi/websocat)
 - **Description:** Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -1293,7 +1354,7 @@
 - **Description:** A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 
 ### [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)
-- **Description:** A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- **Description:** A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
 ### [notify-events/zabbix](https://github.com/notify-events/zabbix)
 - **Description:** Zabbix notifications to Viber, SMS, Voice Call, MS Teams, ...
@@ -1338,7 +1399,7 @@
 - **Description:** 将Excel表转换成Python, Lua, json数据表，自动生成java类。
 
 ### [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)
-- **Description:** 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+- **Description:** 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
 ### [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - **Description:** Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -1346,7 +1407,7 @@
 ### [thunil/TecoGAN](https://github.com/thunil/TecoGAN)
 - **Description:** This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 
-### [adamian98/pulse](https://github.com/adamian98/pulse)
+### [alex-damian/pulse](https://github.com/alex-damian/pulse)
 - **Description:** PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 
 ### [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
