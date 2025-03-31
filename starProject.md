@@ -1,3 +1,12 @@
+### [233boy/v2ray](https://github.com/233boy/v2ray)
+- **Description:** 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+### [VideoData/DY-Data](https://github.com/VideoData/DY-Data)
+- **Description:** 抖音搜索、抖音Api、抖音直播Api、抖音评论采集、抖音弹幕、抖音采集、抖音爬虫、抖音去水印、抖音下载、抖音解析抖音爬虫源码、抖音去水印源码、抖音解析源码、抖音桌面批量去水印工具源码、抖音快手视频剪辑去重工具源码、直播间送礼、粉丝团
+
+### [beck-8/subs-check](https://github.com/beck-8/subs-check)
+- **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash/base64/qx等等所有格式的订阅工具
+
 ### [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 - **Description:** A curated list of resources related to IPTV
 
@@ -1058,7 +1067,7 @@
 - **Description:** 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 ### [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-- **Description:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+- **Description:** This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 
 ### [phyver/GameShell](https://github.com/phyver/GameShell)
 - **Description:** a game to learn (or teach) how to use standard commands in a Unix shell
@@ -1412,9 +1421,6 @@
 
 ### [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - **Description:** :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-### [233boy/v2ray](https://github.com/233boy/v2ray)
-- **Description:** 最好用的 V2Ray 一键安装脚本 & 管理脚本
 
 ### [freefq/free](https://github.com/freefq/free)
 - **Description:** 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
