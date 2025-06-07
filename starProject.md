@@ -1,3 +1,69 @@
+### [jaywcjlove/quick-rss](https://github.com/jaywcjlove/quick-rss)
+- **Description:** A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.
+
+### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
+- **Description:** 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+### [davesc63/GeoPort](https://github.com/davesc63/GeoPort)
+- **Description:** GeoPort: Your Location, Anywhere! The iOS location simulator
+
+### [zhtyyx/ioe](https://github.com/zhtyyx/ioe)
+- **Description:** One-Stop Retail Inventory Solution
+
+### [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit)
+- **Description:** 🌺 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具
+
+### [v2board/v2board](https://github.com/v2board/v2board)
+- **Description:** 🚀A multiple proxy protocol manage panel application interface
+
+### [ZTFtrue/MonsterMusic](https://github.com/ZTFtrue/MonsterMusic)
+- **Description:** A music player on android platform, developed by Andoroid composer
+
+### [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+- **Description:** A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+
+### [minar09/awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on)
+- **Description:** A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
+
+### [KyleBing/vocabulary](https://github.com/KyleBing/vocabulary)
+- **Description:** 单词学习，蚕食
+
+### [albert4719/cdn-validator](https://github.com/albert4719/cdn-validator)
+- **Description:** 彻底杜绝CDN盗刷问题,轻量级解决方案
+
+### [roylee1024/dify-tools](https://github.com/roylee1024/dify-tools)
+- **Description:** 🚀 Dify Assistant
+
+### [owen0o0/WebStack](https://github.com/owen0o0/WebStack)
+- **Description:** WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+
+### [setube/idle-wild-my-survival-saga](https://github.com/setube/idle-wild-my-survival-saga)
+- **Description:** 我的荒野放置求生记
+
+### [setube/vue-idle-xiuxian](https://github.com/setube/vue-idle-xiuxian)
+- **Description:** 修仙放置游戏: 我的放置仙途
+
+### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
+- **Description:** A Material Design Weather Application
+
+### [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
+- **Description:** Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+
+### [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp)
+- **Description:** Feel free.
+
+### [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+- **Description:** 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+
+### [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
+- **Description:** Video, audio & banner adblock/skip for Spotify
+
+### [vbskycn/iptv](https://github.com/vbskycn/iptv)
+- **Description:** iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+
+### [Predidit/Kazumi](https://github.com/Predidit/Kazumi)
+- **Description:** 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
 ### [233boy/v2ray](https://github.com/233boy/v2ray)
 - **Description:** 最好用的 V2Ray 一键安装脚本 & 管理脚本
 
@@ -5,7 +71,7 @@
 - **Description:** 抖音搜索、抖音Api、抖音直播Api、抖音评论采集、抖音弹幕、抖音采集、抖音爬虫、抖音去水印、抖音下载、抖音解析抖音爬虫源码、抖音去水印源码、抖音解析源码、抖音桌面批量去水印工具源码、抖音快手视频剪辑去重工具源码、直播间送礼、粉丝团
 
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash/base64/qx等等所有格式的订阅工具
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
 
 ### [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 - **Description:** A curated list of resources related to IPTV
@@ -52,7 +118,7 @@
 - **Description:** 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
 
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
-- **Description:** Deep Research with Google Gemini Models
+- **Description:** Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
 ### [Fickley/wxappUnpacker](https://github.com/Fickley/wxappUnpacker)
 
@@ -63,7 +129,6 @@
 - **Description:** TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
 
 ### [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
-- **Description:** 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 
 ### [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
 - **Description:** 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
@@ -84,7 +149,7 @@
 - **Description:** (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 
 ### [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-- **Description:** Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+- **Description:** Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 
 
 ### [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key)
 - **Description:** 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
@@ -93,7 +158,7 @@
 - **Description:** Learn Stripe Recurring Subscriptions
 
 ### [plausible/analytics](https://github.com/plausible/analytics)
-- **Description:** Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- **Description:** Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ### [Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)
 - **Description:** Mock Interview Simulator with AI-Powered Feedback
@@ -111,7 +176,7 @@
 - **Description:** Get Twitter direct url from Tweet media link
 
 ### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
-- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ### [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - **Description:** Command-line program to download videos from YouTube.com and other video sites
@@ -172,7 +237,7 @@
 ### [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)
 - **Description:** 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 
-### [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)
+### [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 - **Description:** AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 ### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
@@ -245,7 +310,7 @@
 - **Description:** ⚡ Next-gen Web Extension Framework
 
 ### [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
-- **Description:** 社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能
+- **Description:** 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
 
 ### [screego/server](https://github.com/screego/server)
 - **Description:** screen sharing for developers https://screego.net/
@@ -345,7 +410,7 @@
 - **Description:** ai-generated apps , full stack + generative UI
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [DaWe35/Similarweb-free-API](https://github.com/DaWe35/Similarweb-free-API)
 - **Description:** A python example for the free Similarweb extension API, which is useable without API key
@@ -429,7 +494,7 @@
 - **Description:** A social networking service scraper in Python
 
 ### [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
-- **Description:** Drag & drop UI to build your customized LLM flow
+- **Description:** Build AI Agents, Visually
 
 ### [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor)
 - **Description:** A simple tool for extracting files from iOS backup archive.
@@ -438,7 +503,7 @@
 - **Description:** 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ### [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-- **Description:** The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- **Description:** The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 ### [nageoffer/shortlink](https://github.com/nageoffer/shortlink)
 - **Description:** 🔥 热门推荐 🔥 SaaS 短链接系统，承载高并发和海量存储等场景难题。专为实习、校招以及社招而出的最新项目，项目质量不亚于 12306 铁路购票项目。
@@ -447,7 +512,7 @@
 - **Description:** Powerful Discord image hosting, file sharing
 
 ### [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry)
-- **Description:** 基于 WechatFerry 的微信机器人底层框架
+- **Description:** -
 
 ### [zxfccmm4/Surge](https://github.com/zxfccmm4/Surge)
 
@@ -467,7 +532,7 @@
 - **Description:** 新概念学习笔记分享
 
 ### [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
-- **Description:** Source extensions for the Mihon/Tachiyomi app.
+- **Description:** Extension repository for Mihon and variants
 
 ### [mihonapp/mihon](https://github.com/mihonapp/mihon)
 - **Description:** Free and open source manga reader for Android
@@ -490,7 +555,7 @@
 - **Description:** AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
 ### [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru)
-- **Description:** PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
+- **Description:** PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。
 
 ### [PennyJoly/linktre-tools](https://github.com/PennyJoly/linktre-tools)
 - **Description:** 工具得心应手，出海说走就走！  本仓库为 节点导航站 站点仓库,主要围绕独立开发者技术工具、AI产品、跨境电商、自媒体人办公辅助工具进行收录，持续整理中......  欢迎提交 pr 和 issues 进行更新，每日持续关注。
@@ -536,7 +601,7 @@
 - **Description:** DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
 ### [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 - **Description:** 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
@@ -597,7 +662,7 @@
 - **Description:** 📚「阅读」APP 自用书源（网络小说）
 
 ### [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
-- **Description:** The OS for your personal finances
+- **Description:** The personal finance app for everyone
 
 ### [DongHuaLu/QMR](https://github.com/DongHuaLu/QMR)
 
@@ -611,7 +676,7 @@
 - **Description:** 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
 
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-- **Description:** 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- **Description:** 🎧 Open source music client! Available for both desktop & mobile!
 
 ### [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan)
 - **Description:** 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
@@ -683,7 +748,7 @@
 - **Description:** golang binding for ffmpeg
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+- **Description:** 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
 ### [mylxsw/aidea](https://github.com/mylxsw/aidea)
 - **Description:** AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
@@ -708,9 +773,6 @@
 
 ### [BaoBaoDualang/SmallRunningWiki](https://github.com/BaoBaoDualang/SmallRunningWiki)
 - **Description:** 润学小维基，分享一些润学资料
-
-### [fscarmen/warp](https://github.com/fscarmen/warp)
-- **Description:** WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 
 ### [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor)
 - **Description:** Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
@@ -949,7 +1011,7 @@
 ### [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)
 - **Description:** Play ChatGPT and other LLM with Xiaomi AI Speaker
 
-### [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox)
+### [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox)
 - **Description:** Integrating ChatGPT into your browser deeply, everything you need is here
 
 ### [xx025/carrot](https://github.com/xx025/carrot)
@@ -1067,7 +1129,7 @@
 - **Description:** 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 ### [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-- **Description:** This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- **Description:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 
 ### [phyver/GameShell](https://github.com/phyver/GameShell)
 - **Description:** a game to learn (or teach) how to use standard commands in a Unix shell
@@ -1252,7 +1314,7 @@
 - **Description:** Cross-platform chatbot framework made with love
 
 ### [dubinc/dub](https://github.com/dubinc/dub)
-- **Description:** Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- **Description:** The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 
 ### [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1279,13 +1341,13 @@
 - **Description:** Invidious is an alternative front-end to YouTube
 
 ### [erupts/erupt](https://github.com/erupts/erupt)
-- **Description:** 🚀 General data management framework, objects are pages
+- **Description:**  ✨ Erupt Engine: Java Annotation-Driven Low-Code + AI Base Framework. Build Enterprise Apps Fast & Efficiently.
 
 ### [jeecgboot/jeecgboot-vue2](https://github.com/jeecgboot/jeecgboot-vue2)
 - **Description:** JeecgBoot低代码平台—Vue2版本【停止更新】，前后端分离架构SpringBoot 2，SpringCloud，Ant Design&Vue2，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 
 
 ### [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-- **Description:** 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性
+- **Description:** 🔥集成完善AIGC应用的低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；
 
 ### [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile)
 - **Description:** Flutter App for PhotoPrism
@@ -1752,8 +1814,8 @@
 ### [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)
 - **Description:** Stack trace visualizer
 
-### [perf4j/perf4j](https://github.com/perf4j/perf4j)
-- **Description:** Performance Monitoring and Statistics for Java Code
+### [adams322111233221/solana-mev-bot](https://github.com/adams322111233221/solana-mev-bot)
+- **Description:** solana-mev-bot https://adam-bot.vercel.app/
 
 ### [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)
 
@@ -1767,7 +1829,7 @@
 - **Description:** Query in Java as in Mongo shell
 
 ### [alibaba/nacos](https://github.com/alibaba/nacos)
-- **Description:** an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+- **Description:** an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 
 ### [zabbix/zabbix](https://github.com/zabbix/zabbix)
 - **Description:** Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
@@ -1872,7 +1934,7 @@
 - **Description:** 😉    Pretty nice Zookeeper GUI, Support Win / Mac / Linux Platform
 
 ### [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+- **Description:** 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ### [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
 - **Description:** 【Unity杂货铺】unity大杂烩~
@@ -2150,13 +2212,13 @@
 - **Description:** A fast,scalable,distributed game server framework for Node.js.
 
 ### [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
-- **Description:** An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- **Description:** JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 
 ### [redis/jedis](https://github.com/redis/jedis)
 - **Description:** Redis Java client
 
 ### [redisson/redisson](https://github.com/redisson/redisson)
-- **Description:** Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+- **Description:** Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
 
 ### [LoveInShenZhen/sz-vertx-kotlin](https://github.com/LoveInShenZhen/sz-vertx-kotlin)
 - **Description:** vertx + kotlin + vertx-web
@@ -2550,8 +2612,6 @@
 ### [anxpp/Java-IO](https://github.com/anxpp/Java-IO)
 - **Description:** Java网络编程：BIO、NIO、AIO
 
-### [beaston02/ChaturbateRecorder](https://github.com/beaston02/ChaturbateRecorder)
-
 ### [shiyanhui/dht](https://github.com/shiyanhui/dht)
 - **Description:** BitTorrent DHT Protocol && DHT Spider.
 
@@ -2601,7 +2661,7 @@
 - **Description:** Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 
 ### [redis/redis](https://github.com/redis/redis)
-- **Description:** Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- **Description:** For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ### [zhengmin1989/iOS-Fake-GPS](https://github.com/zhengmin1989/iOS-Fake-GPS)
 
@@ -2756,7 +2816,7 @@
 - **Description:** 基于spring boot支持thrift序列化的http的微服务框架
 
 ### [vczero/React-Native-App](https://github.com/vczero/React-Native-App)
-- **Description:** RN 开源之初，写几个小 App 玩玩
+- **Description:** RN 开源之初，写几个Mini-App 
 
 ### [jbundle/osgi](https://github.com/jbundle/osgi)
 - **Description:** OSGi Utilities
