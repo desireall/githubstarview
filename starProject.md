@@ -1,3 +1,12 @@
+### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
+- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+
+### [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)
+- **Description:** 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+
+### [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash)
+- **Description:** 一个现代化的NodePass管理界面
+
 ### [jaywcjlove/quick-rss](https://github.com/jaywcjlove/quick-rss)
 - **Description:** A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.
 
@@ -11,7 +20,7 @@
 - **Description:** One-Stop Retail Inventory Solution
 
 ### [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit)
-- **Description:** 🌺 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具
+- **Description:** 📕 小红书创作者MCP工具包 - 支持与AI客户端集成的内容创作和发布工具
 
 ### [v2board/v2board](https://github.com/v2board/v2board)
 - **Description:** 🚀A multiple proxy protocol manage panel application interface
@@ -71,7 +80,7 @@
 - **Description:** 抖音搜索、抖音Api、抖音直播Api、抖音评论采集、抖音弹幕、抖音采集、抖音爬虫、抖音去水印、抖音下载、抖音解析抖音爬虫源码、抖音去水印源码、抖音解析源码、抖音桌面批量去水印工具源码、抖音快手视频剪辑去重工具源码、直播间送礼、粉丝团
 
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
 ### [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 - **Description:** A curated list of resources related to IPTV
@@ -214,7 +223,7 @@
 ### [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)
 - **Description:** ai cover generator
 
-### [usual2970/certimate](https://github.com/usual2970/certimate)
+### [certimate-go/certimate](https://github.com/certimate-go/certimate)
 - **Description:** 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
 ### [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
@@ -375,7 +384,7 @@
 - **Description:** 使用日历软件订阅美股的财报日期
 
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-- **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- **Description:** A community-supported supercharged document management system: scan, index and archive all your documents
 
 ### [Fechin/reference](https://github.com/Fechin/reference)
 - **Description:** ⭕ Share quick reference cheat sheet for developers.
@@ -390,7 +399,7 @@
 - **Description:** 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- **Description:** Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- **Description:** Production-ready platform for agentic workflow development.
 
 ### [CatOneTwo/GitHub-Tutorial](https://github.com/CatOneTwo/GitHub-Tutorial)
 - **Description:** Getting started tutorial on GitHub
@@ -410,7 +419,7 @@
 - **Description:** ai-generated apps , full stack + generative UI
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [DaWe35/Similarweb-free-API](https://github.com/DaWe35/Similarweb-free-API)
 - **Description:** A python example for the free Similarweb extension API, which is useable without API key
@@ -1126,7 +1135,7 @@
 - **Description:** 来自硅谷的终身学习大学
 
 ### [krahets/hello-algo](https://github.com/krahets/hello-algo)
-- **Description:** 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+- **Description:** 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 
 ### [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 - **Description:** 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
@@ -1933,7 +1942,7 @@
 ### [vran-dev/PrettyZoo](https://github.com/vran-dev/PrettyZoo)
 - **Description:** 😉    Pretty nice Zookeeper GUI, Support Win / Mac / Linux Platform
 
-### [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)
 - **Description:** 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ### [XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
